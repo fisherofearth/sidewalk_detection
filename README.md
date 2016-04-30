@@ -21,7 +21,7 @@ Download the [rosbag file](https://s3-us-west-1.amazonaws.com/marble-coding-chal
   ````
   * In another terminal play the rosbag.
 
-## Result
+## Outputs
 ![result](https://github.com/fisherofearth/sidewalk_detection/blob/master/result/1.png)
 ![result](https://github.com/fisherofearth/sidewalk_detection/blob/master/result/2.png)
 ![result](https://github.com/fisherofearth/sidewalk_detection/blob/master/result/3.png)
