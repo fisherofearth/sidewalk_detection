@@ -39,7 +39,7 @@ kernel_sharpen = np.array([[-1,-1,-1,-1,-1],
 							[-1,-1,-1,-1,-1]]) / 8.0
 
 similarities_history = [] # used for mean filter
-color_sidewalk = (0,255,0)
+color_sidewalk = (0,0, 255)
 bridge = CvBridge() # convert between openCV image and ImageMsgs
 
 ### Define publisher
