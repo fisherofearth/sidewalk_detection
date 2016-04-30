@@ -1,0 +1,5 @@
+<launch>\
+
+<node pkg="sidewalk_detection" name="sidewalk_detectior" type="sidewalk_detector.py" output="screen"  />
+
+</launch>

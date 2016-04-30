@@ -1,0 +1,5 @@
+<launch>\
+
+	<node pkg="sidewalk_detection" name="sidewalk_detectior" type="sidewalk_detector.py" output="screen"  />
+	<node name="rviz" pkg="rviz" type="rviz" args="-d $(find sidewalk_detection)/rviz/sidewalk_detector_openCV.rviz"/>
+</launch>
